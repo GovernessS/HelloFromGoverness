@@ -22,3 +22,7 @@ An app that not only displays a simple greeting, but also allows the users to ed
    - [X] a. User can enter text into a text field using the keyboard.  
    - [X] b. User can tap the "Change text string" button to update the label with the text from the text field.  
    - [X] c. If the text field is empty, update label with default text string.  
+   
+### New Features Added
+- [X] 1. (1/11/20, 8:50pm) There is now an array of colors that can be applied when selecting to change the color of the background and/or text. Currently only changes the color once. 
+*Potential update: Allow for multiple clicks so that every time the button is selected, a new color is applied to the text/background.*
